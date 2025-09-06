@@ -34,7 +34,7 @@ This is how you make a list, if you need one:
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Cat](https://sdmntprwestus2.oaiusercontent.com/files/00000000-5758-61f8-a4d6-8ec9e2b9f826/raw?se=2025-09-06T18%3A26%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=9534f28d-534a-565b-b564-027ecaa10624&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-06T14%3A30%3A30Z&ske=2025-09-07T14%3A30%3A30Z&sks=b&skv=2024-08-04&sig=1EAWZL9KIj8HB8G6wE%2B5npq3EcGFTp06cteg9d94ySA%3D)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
