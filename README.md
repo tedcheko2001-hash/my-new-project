@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-SmartRoute Optimizer is an AI-powered solution designed to find the most efficient routes between multiple destinations while considering constraints such as traffic, fuel costs, and time. It helps reduce travel time, save resources, and improve decision-making. Building AI course project
+SmartRoute Optimizer is an AI-powered solution designed to find the most efficient routes between multiple destinations while considering constraints such as traffic, fuel costs, and time. It helps reduce travel time, save resources, and improve decision-making. Building AI course project.
 
 
 ## Background
