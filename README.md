@@ -8,12 +8,16 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+SmartRoute Optimizer is an AI-powered solution designed to find the most efficient routes between multiple destinations while considering constraints such as traffic, fuel costs, and time. It helps reduce travel time, save resources, and improve decision-making. Building AI course project
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+**Problem:** Pet misclassification is surprisingly common, especially in shelters, veterinary clinics, and for new pet owners. Mistakes in identifying pets can lead to improper care, feeding, and record-keeping.
+**How common?** Globally, millions of cats and dogs live in shelters, and correct identification is crucial for adoption, vaccination, and treatment.
+**Personal motivation:** I am motivated by my interest in AI for real-world classification tasks and the importance of ensuring animals are properly cared for.
+**Why it matters:** This project is a small but meaningful demonstration of how AI can automate classification and help in both daily life (apps for pet owners) and institutional settings (animal shelters, vet clinics).
+
 
 This is how you make a list, if you need one:
 * problem 1
@@ -23,7 +27,10 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+- **Users:** Animal shelters, veterinarians, or even mobile app users.
+- **Context:** When someone inputs pet measurements, the system outputs the predicted pet type.
+- **Impact:** Helps reduce misidentification errors and standardizes data for records.
+
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
